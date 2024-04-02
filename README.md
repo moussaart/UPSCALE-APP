@@ -1,5 +1,14 @@
 ![Placeholder Image](https://github.com/moussaart/UPSCALE-APP/blob/main/assets/logo.png)
 UPSCALL is a magical photo enhancement app powered by AI! With UPSCALL, your photos will look better than ever before. This project is a fusion of cutting-edge technologies and creativity. We've used Flutter for the frontend ✨, Python and Flask for the backend 🐍, and the Replicat API for the AI magic 🧙‍♂️. Firebase keeps our data organized 📊, and GetX handles state management like a champ 💪. The app works seamlessly across Android, iOS, and even Windows platforms, sporting a sleek design with light and dark modes and captivating animations! 🌟
+<p align="left">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+  <a href="https://pub.dev/packages/get" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getx/getx-icon.svg" alt="getx" width="40" height="40"/></a>
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40"/></a>
+  <a href="https://www.pythonanywhere.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pythonanywhere/pythonanywhere-icon.svg" alt="pythonanywhere" width="40" height="40"/></a>
+</p>
 ![Placeholder Image](https://github.com/moussaart/UPSCALE-APP/blob/main/assets/app.png)
 
 ## Usage Video
