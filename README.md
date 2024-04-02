@@ -5,7 +5,11 @@ UPSCALL is a magical photo enhancement app powered by AI! With UPSCALL, your pho
 ## Usage Video
 
 You can watch a demonstration of the application usage in the following video: [link to video](https://www.youtube.com/watch?v=8DvojcY3G58).
-https://github.com/moussaart/UPSCALE-APP/blob/main/assets/Upscale%20App%20demo_3.mp4
+
+
+
+https://github.com/moussaart/UPSCALE-APP/assets/87451004/a464cd94-7da3-4e8b-b0e5-9c0762b49544
+
 
 
 
