@@ -4,7 +4,7 @@ UPSCALL is a magical photo enhancement app powered by AI! With UPSCALL, your pho
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://pub.dev/packages/get" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getx/getx-icon.svg" alt="getx" width="40" height="40"/></a>
+  <a href="https://pub.dev/packages/get" target="_blank" rel="noreferrer"><img src="https://api.intopros.com/uploads/2023-03/unauth-1679399215800-5304be64bb8949f0b18e71b5f94488c0.png" alt="getx" width="40" height="40"/></a>
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40"/></a>
   <a href="https://www.pythonanywhere.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pythonanywhere/pythonanywhere-icon.svg" alt="pythonanywhere" width="40" height="40"/></a>
