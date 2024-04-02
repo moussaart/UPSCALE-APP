@@ -8,7 +8,7 @@ You can watch a demonstration of the application usage in the following video: [
 
 
 
-https://github.com/moussaart/UPSCALE-APP/assets/87451004/a464cd94-7da3-4e8b-b0e5-9c0762b49544
+<center> https://github.com/moussaart/UPSCALE-APP/assets/87451004/a464cd94-7da3-4e8b-b0e5-9c0762b49544 </center>
 
 
 
