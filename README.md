@@ -1,6 +1,15 @@
 # 🚀 UPSCALL App
-
+![Placeholder Image](https://github.com/moussaart/UPSCALE-APP/blob/main/assets/logo.png)
 UPSCALL is a magical photo enhancement app powered by AI! With UPSCALL, your photos will look better than ever before. This project is a fusion of cutting-edge technologies and creativity. We've used Flutter for the frontend ✨, Python and Flask for the backend 🐍, and the Replicat API for the AI magic 🧙‍♂️. Firebase keeps our data organized 📊, and GetX handles state management like a champ 💪. The app works seamlessly across Android, iOS, and even Windows platforms, sporting a sleek design with light and dark modes and captivating animations! 🌟
+![Placeholder Image](https://github.com/moussaart/UPSCALE-APP/blob/main/assets/app.png)
+
+## Technical Aspects
+
+- **Multiplatform Compatibility**: Developed using Flutter, ensuring compatibility with iOS, Android, and the windos.
+- **Firebase Authentication and Storage**: Utilizing Firebase for user authentication and data storage, ensuring security and reliability.
+- **Modern and Responsive Design**: Featuring a modern and responsive design, adapting seamlessly to all devices.
+- **Advanced Features**: Including dark/light mode, multilingual support, and user-friendly navigation to enhance the user experience.
+![Placeholder Image](https://github.com/moussaart/UPSCALE-APP/blob/main/assets/light%20dark.png)
 
 ## Project Installation
 
