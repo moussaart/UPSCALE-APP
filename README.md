@@ -9,6 +9,7 @@ UPSCALL is a magical photo enhancement app powered by AI! With UPSCALL, your pho
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40"/></a>
   <a href="https://www.pythonanywhere.com" target="_blank" rel="noreferrer"><img src="https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg" alt="pythonanywhere" width="40" height="40"/></a>
 </p>
+
 ![Placeholder Image](https://github.com/moussaart/UPSCALE-APP/blob/main/assets/app.png)
 
 ## Usage Video
